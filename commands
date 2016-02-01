@@ -1,0 +1,2 @@
+./startServer 8888 server1.html > /dev/null 2>&1 &
+./startServer 5555 server2.html > /dev/null 2>&1 &

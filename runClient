@@ -1,0 +1,5 @@
+while true
+do
+	curl localhost:5555
+	sleep 1
+done

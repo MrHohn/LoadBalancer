@@ -1,0 +1,4 @@
+while true
+do
+	nc -l $1 < $2
+done
